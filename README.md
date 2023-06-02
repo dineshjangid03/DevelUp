@@ -15,13 +15,13 @@ This project is a Spring Boot-based API for managing product details. It provide
 - Spring Boot
 - Spring Data JPA
 - MySQL (or any other database of your choice)
-- Maven (or Gradle)
+- Maven 
 
 ## Setup Instructions
 
 1. Clone the repository and navigate to the project directory.
 
-2. Ensure you have Java and Maven (or Gradle) installed on your system.
+2. Ensure you have Java and Maven installed on your system.
 
 3. Configure the database connection properties in the `application.properties` file.
 
